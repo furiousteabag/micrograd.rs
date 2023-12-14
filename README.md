@@ -1,3 +1,4 @@
+```
 a = 2
 b = -3
 c = 10
@@ -23,3 +24,4 @@ df/dx = (f(x + h) - f(x)) / h, h -> 0
 6. dl / da = (dl / dg) \* (dg / de) \* (de \ da) = d \* 1 \* b = d \* b
    de \ da = b
 7. dl / db = (dl / dg) \* (dg / de) \* (de \ db) = d \* 1 \* a = d \* a
+```
